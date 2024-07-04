@@ -194,7 +194,7 @@ text-align: center;
 }
 .section-main {
 background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-url('maingym.jpg');
+url('images/maingym.jpg');
 background-size: cover;
 background-position: top;
 height: max(100vh, 60rem);
